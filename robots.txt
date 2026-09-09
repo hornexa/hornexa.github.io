@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hornexa.github.io/sitemap.xml
